@@ -8,7 +8,7 @@ utilizando Java e conceitos fundamentais de POO.
 - Demais classes representam as entidades do sistema
 
 ## 🎥 Meu Vídeo explicativo
-👉 [https://youtube.com/seu-link-aqui](https://www.youtube.com/watch?v=mx0T6GyLTT8)
+👉 [[https://youtube.com/seu-link-aqui](https://www.youtube.com/watch?v=mx0T6GyLTT8)]
 
 ## 🎯 Objetivo
 Projeto acadêmico para fixação dos conceitos de Programação Orientada a Objetos.
